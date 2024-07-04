@@ -1,0 +1,221 @@
+.div1{
+    display: flex;
+    border: 2px solid blue;
+    height: 100px;
+    width: 300px;
+}
+body,html{
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    margin-left: 200px;
+}
+.box-11{
+    height:50px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: black;
+}
+
+.box-12{
+    display: flex;
+}
+
+.box-121{
+    height:48px;
+    width: 49px;
+    border: 1px solid blue;
+    background-color: red;
+}
+
+.box-122{
+    height:48px;
+    width: 49px;
+    border: 1px solid blue;
+    background-color: green;
+}
+
+.box-2{
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: brown;
+}
+
+.box-31{
+    height: 16px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: aqua;
+}
+
+.box-32{
+    height: 19px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: blanchedalmond;
+}
+
+.box-33{
+    height: 19px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: greenyellow;
+}
+
+.box-34{
+    height: 19px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: violet;
+}
+
+.box-35{
+    height: 19px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: pink;
+}
+
+.div2{
+    display: flex;
+    border: 2px solid blue;
+    width: 300px;
+}
+
+.box-21{
+    display: flex;
+}
+
+.box-211{
+    height: 50px;
+    width: 33px;
+    border: 1px solid blue;
+    background-color: purple;
+}
+
+.box-212{
+    height: 50px;
+    width: 33px;
+    border: 1px solid blue;
+    background-color: plum;
+}
+
+.box-213{
+    height: 50px;
+    width: 33px;
+    border: 1px solid blue;
+    background-color: orange;
+}
+
+.box-23{
+    height: 50px;
+    width: 103px;
+    border: 1px solid blue;
+    background-color: black;
+}
+
+
+
+.box-24{
+   display: flex;
+}
+
+.box-242{
+    height:102px;
+    width: 46px;
+    border: 1px solid blue;
+    background-color: azure;
+}
+
+.box-241{
+    height:102px;
+    width: 46px;
+    border: 1px solid blue;
+    background-color: cadetblue;
+}
+
+.box-25{
+    height: 102px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: gainsboro;
+}
+
+.div3{
+    display: flex;
+    border: 2px solid blue;
+    width: 300px;
+}
+
+.box-261{
+    height: 25px;
+    width: 102px;
+    border: 1px solid blue;
+    background-color: gold;
+}
+
+.box-262{
+    height: 25px;
+    width: 102px;
+    border: 1px solid blue;
+    background-color: blueviolet;
+}
+
+ .box-27{
+    display: flex;
+ }
+
+.box-271{
+    height: 50px;
+    width: 24px;
+    border: 1px solid blue;
+    background-color: olive;
+}
+
+.box-272{
+    height: 50px;
+    width: 24px;
+    border: 1px solid blue;
+    background-color: burlywood;
+}
+
+.box-273{
+    height: 50px;
+    width: 25px;
+    border: 1px solid blue;
+    background-color: orangered;
+}
+
+.box-274{
+    height: 50px;
+    width: 23px;
+    border: 1px solid blue;
+    background-color: orchid;
+}
+
+.box-28{
+    display: flex;
+}
+
+.box-281{
+    height: 104px;
+    width: 47px;
+    border: 1px solid blue;
+    background-color: chartreuse;
+}
+
+.box-282{
+    height: 104px;
+    width: 46px;
+    border: 1px solid blue;
+    background-color: coral;
+}
+
+.box-29{
+    height: 104px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: darkorchid;
+}
+ 
